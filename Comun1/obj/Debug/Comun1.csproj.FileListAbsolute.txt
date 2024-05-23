@@ -1,0 +1,10 @@
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\bin\Debug\Comun1.dll
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\bin\Debug\Comun1.pdb
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\obj\Debug\Comun1.csproj.AssemblyReference.cache
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\obj\Debug\Comun1.csproj.CoreCompileInputs.cache
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\obj\Debug\Comun1.csproj.Up2Date
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\obj\Debug\Comun1.dll
+D:\Login_Repositorio\Login_Proyecto\LoginLayeredCSharp\Comun1\obj\Debug\Comun1.pdb
